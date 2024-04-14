@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="baa814c3-7a91-4197-8313-d91f0748183c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../2024-1-duksung/web/demo/src/main/java/com/example/demo/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024-1-duksung/web/demo/src/main/java/com/example/demo/controller/TodoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024-1-duksung/web/demo/src/main/java/com/example/demo/dto/ResponseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024-1-duksung/web/demo/src/main/java/com/example/demo/dto/TestRequestBodyDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024-1-duksung/web/demo/src/main/java/com/example/demo/dto/TodoDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024-1-duksung/web/demo/src/main/java/com/example/demo/model/TodoEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024-1-duksung/web/demo/src/main/java/com/example/demo/repository/TodoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024-1-duksung/web/demo/src/main/java/com/example/demo/service/TodoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UMC 5기/practice/src/main/java/com/umc5th/practice/domain/BaseTimeEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UMC 5기/practice/src/main/java/com/umc5th/practice/domain/MeberPrefer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UMC 5기/practice/src/main/java/com/umc5th/practice/domain/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UMC 5기/practice/src/main/java/com/umc5th/practice/domain/MemberAgree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UMC 5기/practice/src/main/java/com/umc5th/practice/domain/MemberMission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UMC 5기/practice/src/main/java/com/umc5th/practice/domain/Mission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UMC 5기/practice/src/main/java/com/umc5th/practice/domain/Region.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UMC 5기/practice/src/main/java/com/umc5th/practice/domain/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UMC 5기/practice/src/main/java/com/umc5th/practice/domain/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UMC 5기/practice/src/main/java/com/umc5th/practice/domain/Terms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UMC 5기/practice/src/main/java/com/umc5th/practice/domain/type/FoodCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UMC 5기/practice/src/main/java/com/umc5th/practice/domain/type/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UMC 5기/practice/src/main/java/com/umc5th/practice/domain/type/MemberStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UMC 5기/practice/src/main/java/com/umc5th/practice/domain/type/MissionStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UMC 5기/practice/src/main/java/com/umc5th/practice/domain/type/SocialType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UMC 5기/practice/src/main/java/com/umc5th/practice/web/controller/RegionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UMC 5기/practice/src/main/java/com/umc5th/practice/web/controller/hiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UMC 5기/practice/src/main/java/com/umc5th/practice/web/dto/hiDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UMC 5기/practice/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../umc4th/carrotMarket/src/main/java/com/umc4th/carrotMarket/ApiUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../umc4th/carrotMarket/src/main/java/com/umc4th/carrotMarket/CommonResponse.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2f5v3FvqtZovl5cjBvTCLGVQ4wS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/sinjeong-yun/Documents/sopt/서버의 봄_코드",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="baa814c3-7a91-4197-8313-d91f0748183c" name="Changes" comment="" />
+      <created>1713103553161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713103553161</updated>
+      <workItem from="1713103555535" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
