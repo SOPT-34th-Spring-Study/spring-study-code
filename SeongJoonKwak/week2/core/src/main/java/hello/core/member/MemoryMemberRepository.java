@@ -5,6 +5,7 @@ import java.util.Map;
 
 public class MemoryMemberRepository implements MemberRepository{
 
+    //저장소니까 map같은게 있어야됨
     //실무에서는 concurrent hashmap을 써야됨, 동시성이슈(동시에 접근하는 이슈)
     private static Map<Long, Member> store = new HashMap<>();
     @Override
